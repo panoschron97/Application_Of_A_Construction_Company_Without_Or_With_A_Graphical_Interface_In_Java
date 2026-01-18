@@ -24,7 +24,7 @@ This Java application simulates the operations of a construction company, allowi
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java.git
+    git clone https://github.com/GMKAKISTOS/Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java.git
     cd Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java
     ```
 
